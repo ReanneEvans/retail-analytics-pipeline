@@ -68,11 +68,3 @@ Built an interactive **executive dashboard** connected directly to MySQL.
 - **Customer insights** → identified top customers & repeat purchase behavior  
 - **Operational visibility** → measured delivery times & store productivity  
 
----
-
-## 📂 Repository Structure
-/python
-   cleaning_pipeline.py   # Python script for cleaning and exporting to MySQL
-/sql
-   analysis_views.sql     # SQL views and indexes for KPIs
-/README.md               # Project overview and documentation
