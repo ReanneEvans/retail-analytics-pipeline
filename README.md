@@ -59,10 +59,9 @@ Built an interactive **executive dashboard** connected directly to MySQL.
 - **Filters & drilldowns** → by year, customer, product category  
 
 📸 Dashboard Preview  
-![dashboard.png](./powerbi/dashboard.png)  
+![image.png](attachment:1003efd3-46ae-4a03-ba65-b8cb5618bafe:image.png) 
 
-👉 [**View Interactive Dashboard**](your-public-powerbi-link-here)
-
+👉 [**View Interactive Dashboard**]([your-public-powerbi-link-here](https://app.powerbi.com/view?r=eyJrIjoiNjBhNmVkZTAtMTdiYi00MTYzLWJhMDctZmRkZjc0YTg4MjE5IiwidCI6Ijc0M2ZkMmZhLTA1NTUtNGFhYy1iMjFjLTMyMWUzYzIwMWRiMyJ9)]
 ---
 
 ## 💡 Business Impact
