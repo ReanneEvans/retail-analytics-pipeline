@@ -56,9 +56,13 @@ Built an interactive **executive dashboard** connected directly to MySQL.
 - **Trend charts** → Monthly revenue, MoM growth, moving averages  
 - **Category growth** → Revenue contribution & YoY growth  
 - **Customer insights** → Repeat vs New (donut), cohort retention matrix  
-- **Filters & drilldowns** → by year, customer, product category  
+- **Filters & drilldowns** → by year, customer, product category
 
-👉 [**View Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNjBhNmVkZTAtMTdiYi00MTYzLWJhMDctZmRkZjc0YTg4MjE5IiwidCI6Ijc0M2ZkMmZhLTA1NTUtNGFhYy1iMjFjLTMyMWUzYzIwMWRiMyJ9)]
+  📸 Dashboard Preview  
+![Power BI Dashboard](C:\Users\reann\Downloads\image.png)
+
+
+👉 [**View Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNjBhNmVkZTAtMTdiYi00MTYzLWJhMDctZmRkZjc0YTg4MjE5IiwidCI6Ijc0M2ZkMmZhLTA1NTUtNGFhYy1iMjFjLTMyMWUzYzIwMWRiMyJ9)
 ---
 
 ## 💡 Business Impact
@@ -70,3 +74,8 @@ Built an interactive **executive dashboard** connected directly to MySQL.
 ---
 
 ## 📂 Repository Structure
+/python
+   cleaning_pipeline.py   # Python script for cleaning and exporting to MySQL
+/sql
+   analysis_views.sql     # SQL views and indexes for KPIs
+/README.md               # Project overview and documentation
